@@ -22,6 +22,14 @@ Link for the application : https://extractive-text-summarization.herokuapp.com/
 - [Streamlit](https://www.streamlit.io/), an open source app framework. 
 - [Heroku](https://www.heroku.com/), a cloud application platform. 
 
+## Screenshots
+
+![](/Screenshots/Image1.png)
+
+![](/Screenshots/Image2.png)
+
+![](/Screenshots/Image3.png)
+
 ## Developed by
 
-[Srinath K R](https://github.com/srinathkr07)
+[Srinath K R](https://github.com/srinathkr07).
