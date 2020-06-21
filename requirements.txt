@@ -1,0 +1,6 @@
+streamlit==0.61.0
+requests==2.21.0
+numpy==1.18.1
+pandas==1.0.1
+beautifulsoup4==4.9.1
+scikit_learn==0.23.1
