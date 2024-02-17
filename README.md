@@ -2,11 +2,9 @@
 
 A simple news article text summarizer made from scratch.
 
-Link for the application : https://extractive-text-summarization.herokuapp.com/
-
 ## Working of the application
 
-- Given a news article's link (from [The Hindu](https://www.thehindu.com/)) and the number of sentences to be present in the summary as input, using BeautifulSoup library, scrape the text of the article which is called document.
+- Given a news article's link from [The Hindu](https://www.thehindu.com/) and the number of sentences to be present in the summary as input, using BeautifulSoup library, scrape the text of the article which is called document.
 
 - Tokenize the entire document into sentences and sentences into words. We need individual words in order to determine their relative frequency in the document, and assign a corresponding score; we need individual sentences to subsequently sum the scores of each word within in order to determine 'sentence importance'.
 
